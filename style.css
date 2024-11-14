@@ -1,0 +1,14 @@
+body{
+    background: rgb(0, 0, 0)
+    color blue;
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: 3px solid white;
+    padding: 20px;
+    color: blue;
+    font-size: 35px;
+
+}
